@@ -1,1 +1,15 @@
-{"status":"done","publicPath":"/bundles/","chunks":{"main":[{"name":"main.js","publicPath":"/bundles/main.js","path":"/home/igor/doc/git/react-type/bundles/main.js"},{"name":"main.js.map","publicPath":"/bundles/main.js.map","path":"/home/igor/doc/git/react-type/bundles/main.js.map"}]}}
+{
+    "status": "done",
+    "publicPath": "/bundles/",
+    "chunks": {
+        "main": [{
+            "name": "main.js",
+            "publicPath": "/bundles/main.js",
+            "path": "/home/igor/doc/git/react-typescript/bundles/main.js"
+        }, {
+            "name": "main.js.map",
+            "publicPath": "/bundles/main.js.map",
+            "path": "/home/igor/doc/git/react-typescript/bundles/main.js.map"
+        }]
+    }
+}
